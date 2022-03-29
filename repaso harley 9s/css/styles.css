@@ -1,0 +1,167 @@
+*{  padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* aca comienza el header */
+
+.descuentos {
+    background-color: #1CD1B0;
+    height: 38px;
+    width: 1450px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    background-color: #00669F;
+    height: 50px;
+    width: 1450px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    text-align: start;
+    box-shadow: grey 1px 7px 5px;
+}
+
+/* aca termina el header */
+
+/*contenedor general*/
+
+.perfiles {
+position: relative;
+width: 1450px;
+height: 800px;
+border: black;
+}
+
+/* perfiL 1 - BATMAN */
+
+.art1 {
+    position: relative;
+    top: 160px;
+    left: 20px;
+    background-color: #F3F3F3;
+    background-image: url(../images/baticueva.jpg);
+    background-size: 250px 150px;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 400px;
+    
+    
+}
+
+.perfil{
+    position: relative;
+    left: 70px;
+    top: 70px;
+}
+
+.textobatman{
+    position: relative;
+    top: 100px;
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    top: 80px;
+    
+}
+
+.vermas{
+    position: relative;
+    color: white;
+    background-color: #00669F;
+    width: 28%;
+    text-align: center;
+    top: 100px;
+    left: 90px;
+}
+
+/* perfil 2 - HARLEY */
+
+.art2 {
+    position: relative;
+    top: -30%;
+    left: 600px;
+    background-color: #F3F3F3;
+    background-image: url(../images/colorharley.jpg);
+    background-size: 250px 150px;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 400px;
+    
+    
+}
+
+.perfil{
+    position: relative;
+    left: 45px;
+    top: 70px;
+}
+
+.textobatman{
+    position: relative;
+    top: 100px;
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    top: 80px;
+    
+}
+
+.vermas{
+    position: relative;
+    color: white;
+    background-color: #00669F;
+    width: 28%;
+    text-align: center;
+    top: 100px;
+    left: 90px;
+}
+
+/* Perdil 3 - BATMAN */
+
+.art3 {
+    position: relative;
+    top: -650px;
+    left: 1100px;
+    background-color: #F3F3F3;
+    background-image: url(../images/bati2.jpg);
+    background-size: 250px 150px;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 400px;
+    
+    
+}
+
+.perfil{
+    position: relative;
+    left: 45px;
+    top: 70px;
+}
+
+.textobatman{
+    position: relative;
+    top: 100px;
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    top: 80px;
+    
+}
+
+.vermas{
+    position: relative;
+    color: white;
+    background-color: #00669F;
+    width: 28%;
+    text-align: center;
+    top: 100px;
+    left: 90px;
+}

@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 1px;
+}
+
+.fondobatman{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1430px;
+    height: 250px;
+    background-color: #E6E6E6;
+    padding-top: 0px;
+
+}
+
+.fondobatman img{
+    width: 100px;
+    height: 146px;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 10%;
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 29.64px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.espacio{
+    height: 200px;
+}
+
+article h2 {
+    
+        text-transform: uppercase;
+        letter-spacing: 10%;
+        background-color: #C4C4C4;
+        color: #005677;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-size: 17px;
+        line-height: 29.64px;
+        padding: 5px;
+        text-align: left;
+    
+    
+} 
+
+ul span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+p span {
+    font-weight: bold;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #005677;
+    color: white;
+
+}
